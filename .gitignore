@@ -1,0 +1,21 @@
+# Entorno virtual
+.venv/
+# Dataset y datos generados
+data/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Spark
+spark-warehouse/
+metastore_db/
+
+# Sistema operativo
+.DS_Store
